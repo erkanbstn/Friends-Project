@@ -1,0 +1,22 @@
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.exe.config
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.Form1.resources
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.exe
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projeler\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.FrmP.resources
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.exe.config
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.exe
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\bin\Debug\Arkadaş Takip Sistemi.pdb
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csprojAssemblyReference.cache
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.Form1.resources
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.FrmP.resources
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş_Takip_Sistemi.Properties.Resources.resources
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csproj.GenerateResource.cache
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.exe
+C:\Users\profe\Desktop\Visual Projects\Arkadaş Takip Sistemi\Arkadaş Takip Sistemi\obj\Debug\Arkadaş Takip Sistemi.pdb
